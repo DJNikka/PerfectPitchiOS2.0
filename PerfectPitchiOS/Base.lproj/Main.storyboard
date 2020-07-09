@@ -20,6 +20,9 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.93490736600000002" green="0.94027283029999997" blue="0.92148278669999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="C"/>
+                                <connections>
+                                    <action selector="playC:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UrR-vW-W9s"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a6r-8Q-9gS">
                                 <rect key="frame" x="253" y="96" width="50" height="257"/>
